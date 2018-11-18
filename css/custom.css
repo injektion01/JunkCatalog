@@ -1,0 +1,12 @@
+#footer {
+   possition: center;
+   text-align: center;
+   bottom:0;
+   width:100%;
+   height:20px;   
+   
+}
+
+.form-control {
+    padding: 5px 12px;
+}
