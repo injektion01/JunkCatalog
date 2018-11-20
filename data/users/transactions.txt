@@ -1,3 +1,107 @@
+11.20.2018#bk493#Mini Displayport to VGA adapter#1#CSSSI#N/A#SML 509#N/A
+11.20.2018#bk493#Mini Displayport to VGA adapter#4#CSSSI#N/A#Checked Out#Checked Out
+11.20.2018#test#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#Checked in#Checked in#SML cage B31#BOX000
+11.20.2018#cpt8#Zebra ZKDU Keyboard#4#Win 344 File cabinet#BOX001#SML 509#N/A
+11.20.2018#cpt8#Zebra ZKDU Keyboard#1#Checked in#Checked in#Win 344 File cabinet#BOX001
+11.20.2018#cpt8#Zebra ZKDU Keyboard#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Unitech MS180-1KG Barcode Scanner#1#SML 509#BOX000#SML 509#BOX004
+11.20.2018#cpt8#Unitech MS180-1KG Barcode Scanner#3#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#Unitech MS180-1KG Barcode Scanner#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Unitech MS180-1KG Barcode Scanner#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#USB extension cable#18#SML 509#BOX000#SML cage B31#N/A
+11.20.2018#cpt8#USB extension cable#14#Checked in#Checked in#SML 509#BOX000
+11.20.2018#cpt8#USB extension cable#8#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#USB extension cable#5#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#USB 2.0 type a to type b#34#SML 509#BOX000#SML cage B31#N/A
+11.20.2018#cpt8#USB 2.0 type a to type b#30#Checked in#Checked in#SML 509#BOX000
+11.20.2018#cpt8#USB 2.0 type a to type b#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#USB 2.0 type a to type b#1#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#SCSI33ARRAY6 6ft External VHD68 to HPDB68 SCSI Cable#1#SML 509#BOX000#SML cage B31#BOX000
+11.20.2018#cpt8#SCSI33ARRAY6 6ft External VHD68 to HPDB68 SCSI Cable#3#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#SCSI33ARRAY6 6ft External VHD68 to HPDB68 SCSI Cable#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#SCSI33ARRAY6 6ft External VHD68 to HPDB68 SCSI Cable#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Motorola LS2208 Barcode Scanner with serial cable#1#SML 509#BOX000#SML 509#BOX004
+11.20.2018#cpt8#Motorola LS2208 Barcode Scanner with serial cable#3#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#Motorola LS2208 Barcode Scanner with serial cable#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Motorola LS2208 Barcode Scanner with serial cable#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#RS232 male to fimale#3#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#RS232 male to fimale#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#RS232 male to fimale#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Zebra zkdu adapter#4#SML 509#BOX000#SML 509#BOX004
+11.20.2018#cpt8#Zebra zkdu adapter#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Zebra zkdu adapter#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#DisplayPort To DVI Adapter#22#Checked in#Checked in#SML 509#N/A
+11.20.2018#cpt8#DisplayPort To DVI Adapter#18#CSSSI#N/A#SML 509#N/A
+11.20.2018#cpt8#DisplayPort To DVI Adapter#2#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Honeywell Cable (53-53235-N-3) USB, black, Type A, 2.9m, coiled, host power#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#Honeywell Cable (53-53235-N-3) USB, black, Type A, 2.9m, coiled, host power#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Honeywell Cable (53-53235-N-3) USB, black, Type A, 2.9m, coiled, host power#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#LEXMARK IBM 1368700 Serial Interface Adapter#1#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#C2G - Printer cable - DB-25 (M) to 36 pin Centronics#1#Checked in#Checked in#SML cage B31#BOX000
+11.20.2018#cpt8#C2G - Printer cable - DB-25 (M) to 36 pin Centronics#2#SML cage B31#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#C2G - Printer cable - DB-25 (M) to 36 pin Centronics#1#Checked in#Checked in#SML cage B31#BOX001
+11.20.2018#cpt8#PS2 6-pin DIN to RJ-45 Cable (2M)#1#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#HP Compaq Q1342-60001 Parallel to USB Adapter#2#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#Serial cable DB-25 (M) to DB-9 (F)#1#Checked in#Checked in#SML cage B31#BOX000
+11.20.2018#cpt8#HP / Compaq Q1342-60001 Parallel to USB Adapter#2#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#Floppy disk drive adapter#1#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#Serial cable DB-25 (M) to DB-9 (F)#1#SML cage B31#N/A#SML cage B31#BOX000
+11.20.2018#cpt8#Serial cable DB-25 (M) to DB-9 (F)#2#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Serial cable DB-25 (M) to DB-9 (F)#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Serial cable DB-25 (M) to DB-9 (F)#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#StarTech SCSI22 SCSI2 External Cable M-M#1#Checked in#Checked in#SML cage B31#BOX000
+11.20.2018#cpt8#ps2 mouse#1#Win 344 File cabinet#BOX001#SML cage B31#BOX000
+11.20.2018#cpt8#Adaptec USB2Xchange USB TO SCSI Adaptor#1#SML cage B31#N/A#SML cage B31#BOX000
+11.20.2018#cpt8#Adaptec USB2Xchange USB TO SCSI Adaptor#4#CSSSI#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#StarTech SCSI22 SCSI2 External Cable M-M#1#SML cage B31#N/A#SML cage B31#BOX000
+11.20.2018#cpt8#StarTech SCSI22 SCSI2 External Cable M-M#2#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#StarTech SCSI22 SCSI2 External Cable M-M#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#StarTech SCSI22 SCSI2 External Cable M-M#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#PROX USB card reader#1#Win 344 File cabinet#BOX000#SML cage B31#BOX000
+11.20.2018#cpt8#PROX USB card reader#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#PROX USB card reader#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Unitech MS 146 - barcode scanner USB#1#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#Unitech MS 146 - barcode scanner#2#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#Unitech MS 146 - barcode scanner#2#SML 509#BOX000#SML cage B31#BOX000
+11.20.2018#cpt8#Unitech MS 146 - barcode scanner#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Unitech MS 146 - barcode scanner#3#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#ZIP drive diskette#6#New Item#New Item#SML cage B31#BOX000
+11.20.2018#cpt8#Intermec Microbar 9730 Barcode Scanner#1#SML cage B31#N/A#SML cage B31#BOX000
+11.20.2018#cpt8#Intermec Microbar 9730 Barcode Scanner#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec Microbar 9730 Barcode Scanner#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec Microbar 9730 Barcode Scanner#2#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec 9710 barcode scanner with pen and cables#1#SML cage B31#N/A#SML cage B31#BOX000
+11.20.2018#cpt8#Intermec 9710 barcode scanner with pen and cables#2#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec 9710 barcode scanner with pen and cables#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec 9710 barcode scanner with pen and cables#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec 9570 barcode scanner with pen#2#SML cage B31#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Intermec 9570 barcode scanner with pen#1#SML cage B31#N/A#SML cage B31#BOX000
+11.20.2018#cpt8#DB9 Male to DB9 Male Low Profile Gender Changer#3#Win 344 File cabinet#N/A#SML 509#BOX004
+11.20.2018#cpt8#Cvetan Terziyski#1#SML 509#N/A#Checked Out#Checked Out
+11.20.2018#cpt8#Zebra ZKDU Keyboard#4#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#ps2 mouse#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.20.2018#cpt8#ps2 mouse#5#SML 509#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#ps2 mouse#7#Win 344 File cabinet#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#ps2 mouse#7#Checked in#Checked in#Win 344 File cabinet#BOX000
+11.20.2018#cpt8#DB9 Male to DB9 Male Serial Cable#1#Win 344 File cabinet#BOX000#Checked Out#Checked Out
+11.20.2018#cpt8#DB9 Male to DB9 Male Serial Cable#1#Checked in#Checked in#Win 344 File cabinet#BOX000
+11.19.2018#cpt8#Cvetan Terziyski#1#Checked in#Checked in#SML 509#N/A
+11.19.2018#cpt8#Cvetan Terziyski#1#Win 344 File cabinet#N/A#Checked Out#Checked Out
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#2#CSSSI#BOX001#Checked Out#Checked Out
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#CSSSI#BOX000#CSSSI#BOX001
+11.19.2018#cpt8#Power Adapter 5V#1#SML cage B31#BOX001#Checked Out#Checked Out
+11.19.2018#cpt8#Voyager MS9520 Power Adapter Plug 0.3A 5V#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
+11.19.2018#cpt8#Voyager MS9520 Power Adapter Plug 0.3A 5V#3#SML cage B31#N/A#Checked Out#Checked Out
+11.19.2018#cpt8#Power Adapter 5V#15#New Item#New Item#SML cage B31#BOX001
+11.19.2018#cpt8#Cvetan Terziyski#1#SML cage B31#N/A#Win 344 File cabinet#N/A
+11.19.2018#cpt8#Cvetan Terziyski#1#Checked in#Checked in#SML cage B31#N/A
+11.19.2018#cpt8#Cvetan Terziyski#1#SML cage B31#N/A#Checked Out#Checked Out
+11.19.2018#cpt8#Cvetan Terziyski#1#New Item#New Item#SML cage B31#N/A
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#Checked in#Checked in#CSSSI#BOX001
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#Checked in#Checked in#CSSSI#BOX000
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#CSSSI#N/A#Checked Out#Checked Out
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#Checked in#Checked in#CSSSI#N/A
+11.19.2018#cpt8#3ft DB25 Male to Centronics 36 Male Parallel Printer Cable#1#CSSSI#N/A#Checked Out#Checked Out
 11.18.2018#test#USB extension cable#5#Checked in#Checked in#Win 344 File cabinet#BOX001
 11.18.2018#test#Intermec 9570 barcode scanner with pen#4#SML 509#BOX000#Checked Out#Checked Out
 11.18.2018#test#Intermec 9570 barcode scanner with pen#3#Win 344 File cabinet#BOX001#Checked Out#Checked Out
