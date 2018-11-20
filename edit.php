@@ -78,7 +78,7 @@
                                                         '<tr><td>'.$AvailLocations[$Loc].'</td>'
                                                         .'<td>'.$AvailSubLocations[$SubLoc].'</td>'
                                                         .'<td>'.$Units.'</td><td>'
-                                                        . '<a href="checkin.php?Item='.$Item.'&Location='.$Loc.'&SubLocation='.$SubLoc.'&Units='.$Units.'">'.'Check In'.'</a></td></tr>';
+                                                        . '<a href="CheckIn.php?Item='.$Item.'&Location='.$Loc.'&SubLocation='.$SubLoc.'&Units='.$Units.'">'.'Check In'.'</a></td></tr>';
 
                                                         }
                                                         
@@ -91,7 +91,7 @@
                                                         .'<td>'.$Units.'</td>'
                                                             . '<td><a href="move.php?Item='.$Item.'&Location='.$Loc.'&SubLocation='.$SubLoc.'&Units='.$Units.'">'.'Move'.'</a> or '
                                                             . '<a href="checkout.php?Item='.$Item.'&Location='.$Loc.'&SubLocation='.$SubLoc.'&Units='.$Units.'">'.'Check Out'.'</a> or '
-                                                            . '<a href="checkin.php?Item='.$Item.'&Location='.$Loc.'&SubLocation='.$SubLoc.'&Units='.$Units.'">'.'Check In'.'</a></td>'
+                                                            . '<a href="CheckIn.php?Item='.$Item.'&Location='.$Loc.'&SubLocation='.$SubLoc.'&Units='.$Units.'">'.'Check In'.'</a></td>'
                                                         . '</tr>';
 
                                                         }
