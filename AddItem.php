@@ -11,7 +11,11 @@
                     //Was the form submitted?
                     if($_POST){
                         
-                        $FolderName='data/items/'.$_POST['name'];
+                        
+                        $Name = str_replace('/', '-', trim($_POST['name']));
+                        $Name = str_replace('\\', '-', $Name);
+                                            
+                        $FolderName='data/items/'.$Name;
                         
                         //Checkes if the Item/folder exists and creates it if not
                         if(!is_dir($FolderName)){
@@ -109,7 +113,7 @@
                         
                         $Date = date("m.d.Y");
     
-                        $TransLine = $Date.'#'.trim($_SESSION['NetID']).'#'.$_POST['name'].'#'.$_POST['Units'].'#New Item#New Item#'.$TrimmedLoc.'#'.$TrimmedSubLoc.PHP_EOL;  
+                        $TransLine = $Date.'#'.trim($_SESSION['NetID']).'#'.$Name.'#'.$_POST['Units'].'#New Item#New Item#'.$TrimmedLoc.'#'.$TrimmedSubLoc.PHP_EOL;  
                             
                                     //Add a transaction record                   
                                     $TransLine .= file_get_contents("data/users/transactions.txt");
@@ -119,7 +123,7 @@
                         
                         else {
                         
-                        $message='<p>There is already an item called '.$_POST['name'].'</p>';
+                        $message='<p>There is already an item called '.$Name.'</p>';
                         
                         }
                     }
