@@ -59,7 +59,9 @@ session_start();
                                  <li class="nav-item">
                                     <a class="nav-link" href="Transactions.php">Transactions</a>                                  
                                 </li>
-                              
+                               
+                                
+                                                           
                             </ul>
                             
                             
@@ -70,9 +72,11 @@ session_start();
                                         <span>Logout, <?php if(isset($_SESSION['FullName'])== TRUE){echo $_SESSION['FullName'];}?></span>
                                     </a>
                                 </li>
-                                            
+                                
+                                          
                             </ul>
                         </div>
+                                          
                     </nav>
                 </div>
 </div>
