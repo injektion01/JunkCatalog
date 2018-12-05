@@ -98,5 +98,3 @@ function sortTable(tableClass, n) {
 
 
 
-
-
