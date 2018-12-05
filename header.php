@@ -13,7 +13,7 @@ session_start();
     <script src="js/jquery.min.js"></script>
     <script src="js/customjs.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    
+
     
 <title><?= $pageTitle;?></title>
 
@@ -29,6 +29,9 @@ session_start();
                             
                             <h1 class="tm-site-title mb-0">junk catalog</h1>
                         </a>
+                        
+                        <a href="img/CageMap.jpg" ><img src="img/CageMap.jpg" id="CageMap" alt="CageMap"  height="75"/></a>
+
                         <button class="navbar-toggler ml-auto mr-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
@@ -76,7 +79,7 @@ session_start();
                                           
                             </ul>
                         </div>
-                                          
+                                     
                     </nav>
                 </div>
 </div>
