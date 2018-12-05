@@ -30,7 +30,7 @@ session_start();
                             <h1 class="tm-site-title mb-0">junk catalog</h1>
                         </a>
                         
-                        <a href="img/CageMap.jpg" ><img src="img/CageMap.jpg" id="CageMap" alt="CageMap"  height="75"/></a>
+                        
 
                         <button class="navbar-toggler ml-auto mr-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -62,9 +62,11 @@ session_start();
                                  <li class="nav-item">
                                     <a class="nav-link" href="Transactions.php">Transactions</a>                                  
                                 </li>
-                               
                                 
-                                                           
+                                <li class="nav-item">
+                                <a href="img/CageMap.jpg" class="nav-link">Map<img src="img/CageMap.jpg" id="CageMap" alt="CageMap"  height="30"/></a>
+                                </li>
+                          
                             </ul>
                             
                             
