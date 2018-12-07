@@ -53,6 +53,10 @@
                         </div>
                     </div>
                     
+                    <div class="row">
+                        <?php echo '<a href="data/items/'.$Item.'/icon.jpg" ><img src="data/items/'.$Item.'/icon.jpg" alt="Icon" height="200" /></a>'?>
+                    </div>
+
                     <table id="myTable" class="table table-light table-striped table-bordered  bg-light" cellspacing="0" width="100%"> 
 					 <thead>
                                              <tr class="header">
